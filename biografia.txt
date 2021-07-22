@@ -1,1 +1,1 @@
-test
+Now we are gonna practice some git commands
