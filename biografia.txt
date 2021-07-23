@@ -1,1 +1,3 @@
 Now we are gonna practice some git commands, lets try commit am, checking git status, checking git show
+
+another check with rm --cache
